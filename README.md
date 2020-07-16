@@ -25,3 +25,6 @@
   />
   ```
   具体样式自行修改
+  
+  [![](https://jitpack.io/v/fengwei92/ClearEditTextDemo.svg)](https://jitpack.io/#fengwei92/ClearEditTextDemo)
+
