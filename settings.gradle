@@ -1,0 +1,3 @@
+include ':cleareditlibrary'
+include ':app'
+rootProject.name = "ClearEditTextDemo"
